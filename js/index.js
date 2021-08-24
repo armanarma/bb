@@ -1,0 +1,10 @@
+$(document).ready(function(){
+    $('.rslides').responsiveSlides({
+        speed:500
+    });
+});
+$(document).ready(function(){
+    $("#owl-demo").owlCarousel({
+        autoPlay:true
+    });
+});
